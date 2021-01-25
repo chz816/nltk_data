@@ -21,6 +21,6 @@ LookupError:
 Using the virtual enviorment as an example:
 
 ```bash
-cd venv/lib
 git clone https://github.com/chz816/nltk_data.git
+mv nltk_data/packages venv/nltk_data
 ```
